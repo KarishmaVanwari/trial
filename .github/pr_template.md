@@ -1,6 +1,7 @@
 Fixes #0000  #(<=== Replace `0000` with the Issue Number)
 
-[comment]: # Make sure these boxes are checked before your pull request (PR) is ready to be reviewed and merged. Thanks!
+
+<!---Make sure these boxes are checked before your pull request (PR) is ready to be reviewed and merged. Thanks!--->
 
 * [ ] tests pass -- look for a green checkbox ✔️ a few minutes after opening your PR -- or run tests locally with `npm run test-all`
 * [ ] code is in uniquely-named feature branch and has no merge conflicts
